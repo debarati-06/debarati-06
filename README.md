@@ -41,7 +41,7 @@
 
 ## 📊 Github Stats
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debarati-06&theme=dark" alt="HrugVed" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debarati-06&" alt="debarati-06" />
 
 </br>
 
