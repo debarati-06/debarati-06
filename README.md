@@ -13,7 +13,7 @@
 
 ## 😃 About Me
 - 💻 I’m currently learning Web Development, Competitive Programming and DSA.
-- 😄 I’m currently working on learning new technoligies and improving existing ones.
+- 😄 I’m currently working on learning new technologies and improving existing ones.
 - 👯 I’m looking to collaborate on interesting projects.
 
 </br>
