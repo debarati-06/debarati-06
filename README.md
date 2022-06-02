@@ -2,7 +2,7 @@
     <img src="https://www.advalorise.it/wp-content/uploads/2019/11/team-2.png" height="30%" width="30%"/></p>
 </p>
 
-<h1 align="center"> Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Debarati Bandopadhyay this side </h1>
+<h1 align="center"> Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> Debarati Bandopadhyay this side </h1>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=debarati-06&left_color=e63946&right_color=lightblue)
 
