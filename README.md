@@ -12,7 +12,7 @@
 
 
 ## 😃 About Me
-  I am currently pursuing Computer Science and Engineering from Indian Institute of Technology-Varanasi ( IIT BHU).
+  I am currently pursuing Computer Science and Engineering from Indian Institute of Technology-Varanasi (IIT BHU).
 - 💻 I’m currently learning Web Development, Competitive Programming and DSA.
 - 😄 I’m currently working on learning new technologies and improving existing ones.
 - 👯 I’m looking to collaborate on interesting projects.
