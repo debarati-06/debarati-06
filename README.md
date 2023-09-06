@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://www.advalorise.it/wp-content/uploads/2019/11/team-2.png" height="30%" width="30%"/></p>
+    <img src="https://www.spiralyticsagency.com/wp-content/uploads/2019/10/hero-img-4.png" height="30%" width="30%"/></p>
 </p>
 
 <h1 align="center"> Hey there!👋 Debarati Bandopadhyay this side </h1>
